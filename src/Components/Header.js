@@ -7,7 +7,7 @@ const Header = ({ headerExpanded }) => {
         className={`head_image ${
           headerExpanded ? "head_image_expanded" : "head_image_contracted"
         }`}
-        src="https://user-images.githubusercontent.com/26179770/106359099-693e3380-6336-11eb-8069-9e36f25de5ca.png"
+        src="http://assets.stickpng.com/thumbs/5e8f085dee3ef200041aa0da.png"
         alt="header_photo"
       />
       <h1
@@ -15,7 +15,7 @@ const Header = ({ headerExpanded }) => {
           headerExpanded ? "head_text_expanded" : "head_text_contracted"
         }`}
       >
-        Name It!
+        NAME IT !
       </h1>
     </div>
   );
