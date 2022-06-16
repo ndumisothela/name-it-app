@@ -7,7 +7,7 @@ const Header = ({ headerExpanded }) => {
         className={`head_image ${
           headerExpanded ? "head_image_expanded" : "head_image_contracted"
         }`}
-        src="http://assets.stickpng.com/thumbs/584fbcc76a5ae41a83ddee73.png"
+        src="http://assets.stickpng.com/thumbs/580b57fbd9996e24bc43be13.png"
         alt="header_photo"
       />
       <h1

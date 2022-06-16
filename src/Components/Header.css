@@ -27,7 +27,7 @@
   margin-top: 5px 0 15px 0;
   border: 2px solid lightblue;
   padding: 10px;
-  color: yellow;
+  color: rgb(15, 127, 233);
   transition: font-size 1s;
 }
 .head_text_expanded {

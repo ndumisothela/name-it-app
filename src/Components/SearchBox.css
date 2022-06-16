@@ -9,14 +9,14 @@
   width: 550px;
   height: 50px;
   border-width: 0;
-  background: #ddf292;
-  color: #130749;
+  background: rgb(15, 127, 233);
+  color: lightgray;
   font-size: large;
   border-radius: 4px;
   box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
 }
 .search-input::placeholder {
-  color: #130749;
+  color: lightgray;
   font-size: large;
   font-weight: 500;
 }
